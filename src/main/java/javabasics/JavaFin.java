@@ -1,4 +1,4 @@
-package javafin;
+package javabasics;
 
 public class JavaFin {
 

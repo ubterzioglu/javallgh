@@ -1,4 +1,4 @@
-package javafin;
+package javabasics;
 
 // 1. SINIF (Class) - Köpek taslağı
 class Kopek {
