@@ -1,0 +1,10 @@
+package javafin;
+
+public class JavaFin {
+
+    public static void main(String[] args) {
+
+    System.out.println("Hello World!");
+
+    }
+}
