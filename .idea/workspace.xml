@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c140eea0-921e-4c82-9889-4b72ee187a98" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ubterzioglu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ubterzioglu/javallgh.git&quot;,
+    &quot;accountId&quot;: &quot;3f457949-917b-4422-b7b0-e41c244873ac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35KXUD69sEs4iog17zS9k851VFf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JavaClassSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaFin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaInheritenceSample (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaInheritenceSample (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaInheritenceSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaPolymorphismSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolymorphismVehicles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelFin.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest.Setup (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_Autocomplete.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_Clean_Up.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_DatePicker.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_DragDrop.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_ExecuteJavascript.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_RadioButtons.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_Scroll.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_SwitchToActiveWindow.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_SwitchToAlert.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_Wait_Examples.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelFinTest_Workflow_Form.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ubter/IdeaProjects/linkedin_learning_java/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ubter\IdeaProjects\linkedin_learning_java\src\main\java" />
+      <recent name="C:\Users\ubter\IdeaProjects\linkedin_learning_selenium\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ubter\IdeaProjects\linkedin_learning_selenium" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="selfin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaPolymorphismSample">
+    <configuration name="JavaInheritenceSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javafin.JavaInheritenceSample" />
+      <module name="Java_Refeshment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaInheritenceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javainheritence.JavaInheritenceSample" />
+      <module name="Java_Refeshment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javainheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaInheritenceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javainheritence.JavaInheritenceSample" />
+      <module name="Java_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javainheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaInheritenceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javainheritence.JavaInheritenceSample" />
+      <module name="Java_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javainheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaPolymorphismSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javapolymorphism.JavaPolymorphismSample" />
+      <module name="Java_Refeshment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javapolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismVehicles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javapolymorphism.PolymorphismVehicles" />
+      <module name="Java_Refeshment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javapolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_Refeshment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_Refeshment" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaPolymorphismSample" />
+        <item itemvalue="Application.PolymorphismVehicles" />
+        <item itemvalue="Application.JavaInheritenceSample (1)" />
+        <item itemvalue="Application.JavaInheritenceSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c140eea0-921e-4c82-9889-4b72ee187a98" name="Changes" comment="" />
+      <created>1762859750463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762859750463</updated>
+    </task>
+    <servers />
+  </component>
+</project>
